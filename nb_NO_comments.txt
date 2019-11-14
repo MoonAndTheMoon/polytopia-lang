@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/MoonAndTheMoon/polytopia-lang/master/nb_NO.json
 
 
 
@@ -57,7 +58,6 @@
 
 
 
-todo
 
 
 
@@ -89,14 +89,18 @@ todo
 
 
 
+echo in eternity -> ?
 
 
 
 
+face of the square/earth -> ?
 
 
 
 
+check
+check
 
 
 
@@ -104,14 +108,10 @@ todo
 
 
 
+-stammen?
 
 
-
-
-
-
-
-
+fullfør?
 
 
 
