@@ -35,7 +35,6 @@
   "tribepicker.yourname": "",
   "tribepicker.anonymous": "",
   "tribepicker.firstplayer": "",
-  "tribepicker.pickyour": "",
   "tribepicker.playertype": "",
   "tribepicker.news.readmore": "",
   "tribepicker.toprating": "",
@@ -533,6 +532,7 @@
   "wcontroller.load.update.title": "",
   "wcontroller.removingplayer": "",
   "wcontroller.not.your.turn": "",
+  "wcontroller.loadingworld": "",
 
   "technology.intro": "",
   "technology.build": "",
