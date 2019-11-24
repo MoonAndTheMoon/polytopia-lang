@@ -89,18 +89,14 @@ https://raw.githubusercontent.com/MoonAndTheMoon/polytopia-lang/master/nb_NO.jso
 
 
 
-echo in eternity -> ?
 
 
 
 
-face of the square/earth -> ?
 
 
 
 
-check
-check
 
 
 
@@ -108,10 +104,8 @@ check
 
 
 
--stammen?
 
 
-fullfør?
 
 
 
@@ -126,7 +120,6 @@ fullfør?
 
 
 
-skip
 
 
 
@@ -205,6 +198,7 @@ skip
 
 
 
+bugged
 
 
 
@@ -462,6 +456,15 @@ skip
 
 
 
+
+
+
+
+
+
+
+
+capitalization check
 
 
 
