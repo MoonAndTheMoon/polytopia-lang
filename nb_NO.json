@@ -198,7 +198,7 @@
 
   "building.capital.owner": "{0} er {1}s hovedstad.",
   "building.capital.owner.former": "{0} er den tidligere hovedstaden til {1}s imperium, nå okkupert av {2}.",
-  "building.city.owner": "{0} er en by i {1}s imperium",
+  "building.city.owner": "{0} is a city in the {1} empire.",
   "building.village.owner": "Dette er en nøytral landsby som ikke er underlagt en stamme.",
   "building.ability.attract": "tiltrekker et vilt dyr til en nærliggende skog hver 3. runde",
   "building.produce": "produserer {0} hver runde",
