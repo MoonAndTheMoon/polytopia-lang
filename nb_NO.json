@@ -41,7 +41,7 @@
   "tribepicker.playertype": "Spillertype",
   "tribepicker.news.readmore": "Les mer...",
   "tribepicker.toprating": "Høyeste rating {0}%",
-  "tribepicker.toprating.next": {0}% fra neste stjerne",
+  "tribepicker.toprating.next": "{0}% fra neste stjerne",
   "tribepicker.topscore": "Høyeste score {0}",
   "tribepicker.topscore.next": "{0} poeng fra neste stjerne",
   "tribepicker.players": "{0} spillere",
