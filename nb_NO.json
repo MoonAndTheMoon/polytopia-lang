@@ -126,7 +126,7 @@
   "world.turn.your": "Din tur",
   "world.turn.remaining": "{0} runder gjenstår",
   "world.turn.last": "Siste runde!",
-  "world.turn.replaying": "Viser opptak...",
+  "world.turn.replaying": "Viser opptak....",
   "world.unit.info.from": "Fra byen {0}.",
   "world.unit.veteran": "",
   "world.unit.veteran.progress": "{0}/{1} fra å bli veteran.",
@@ -454,7 +454,7 @@
   "polyplayer.task.network.title": "Nettverk",
   "polyplayer.task.network.description": "Opprett 5 handelsruter til hovedstaden",
 
-  "task.info": "{0} to get {1}",
+  "task.info": "{0} for å kunne bygge {1}",
 
   "price.stars": "stjerne",
   "price.stars.plural": "stjerner",
@@ -518,7 +518,7 @@
   "wcontroller.tribe.destroy.all.title": "Verdensherredømme!",
   "wcontroller.city.disconnect": "{0} mistet forbindelsen til {1}",
   "wcontroller.city.disconnect.title": "Handelsrute tapt!",
-  "wcontroller.turn.end": "TEST",
+  "wcontroller.turn.end": "S",
   "wcontroller.turn.saving": "Lagrer spillet til server...",
   "wcontroller.turn.notification": "Det er din tur i {0} (runde {1})",
   "wcontroller.turn.passed": "Det er nå {0} sin tur",
