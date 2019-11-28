@@ -518,7 +518,7 @@
   "wcontroller.tribe.destroy.all.title": "Verdensherredømme!",
   "wcontroller.city.disconnect": "{0} mistet forbindelsen til {1}",
   "wcontroller.city.disconnect.title": "Handelsrute tapt!",
-  "wcontroller.turn.end": "S",
+  "wcontroller.turn.end": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAASS",
   "wcontroller.turn.saving": "Lagrer spillet til server...",
   "wcontroller.turn.notification": "Det er din tur i {0} (runde {1})",
   "wcontroller.turn.passed": "Det er nå {0} sin tur",
