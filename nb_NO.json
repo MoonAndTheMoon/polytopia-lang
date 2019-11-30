@@ -612,7 +612,7 @@
   "action.info.build": "bygge {0} her",
   "action.info.reward.population": "Det vil øke befolkningen til den nærmeste byen. Når byen har nok innbyggere vil den vokse og produsere flere stjerner",
   "action.info.reward.resources": "Det vil umiddelbart belønne deg med {0} stjerner",
-  "action.info.research": "oppdag {0}. {1}",
+  "action.info.research": "oppdag {0}",
 
   "actionbtn.upgrade": "Oppgrader til {0}",
   "actionbtn.remove.building": "Bygning",
