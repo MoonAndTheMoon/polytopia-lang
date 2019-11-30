@@ -1,0 +1,12 @@
+{
+  "language": "Norsk"
+  "tribes.xin-xi": {
+    "default": "Xin-xi",
+	"possessive": "Xin-xis",
+	"adjective": "Xin-xisk"
+  },
+  "tribes.imperius": {
+    "default": "Imperius",
+	"adjective": "Imperiusk"
+  },
+}
