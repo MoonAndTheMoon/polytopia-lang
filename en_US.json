@@ -612,7 +612,7 @@
   "action.info.build": "build a {0} here",
   "action.info.reward.population": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
-  "action.info.research": "research {0}. {2}",
+  "action.info.research": "research {0}. {0}",
 
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
