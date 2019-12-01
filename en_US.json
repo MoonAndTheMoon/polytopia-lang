@@ -622,7 +622,7 @@
   "technology.intros.5": ". Finally it ",
   "technology.upgrade": "gives you the option to upgrade your {1}s to {2}s",
   "technology.move": "allows movement on ",
-  "technology.value": "gives your tribe a one time award of {1}"
+  "technology.value": "gives your tribe a one time award of {1}",
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
