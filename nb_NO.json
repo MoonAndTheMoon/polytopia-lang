@@ -614,9 +614,9 @@
   "action.info.reward.resources": "Det vil umiddelbart belønne deg med {0} stjerner",
   "action.info.research": "research {0}. \n{1}",
   "technology.enables": "",
-  "technology.intros.1": "\ttechnology.intros.1({0},{1},{2})",
-  "technology.upgrade": "\ttechnology.upgrade({0},{1},{2})",
-  "technology.move": "\ttechnology.move({0},{1},{2})",
+  "technology.intros.1": "",
+  "technology.upgrade": "",
+  "technology.move": "",
 
   "actionbtn.upgrade": "Oppgrader til {0}",
   "actionbtn.remove.building": "Bygning",
