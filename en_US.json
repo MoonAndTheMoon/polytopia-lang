@@ -620,9 +620,9 @@
   "technology.intros.3": ". It also ",
   "technology.intros.4": ". If that wasnt enough it ",
   "technology.intros.5": ". Finally it ",
-  "technology.upgrade": "gives you the option to upgrade your {1}s to {2}s",
-  "technology.move": "allows movement on ",
-  "technology.value": "gives your tribe a one time award of {1}",
+  "technology.upgrade": "{0}gives you the option to upgrade your {1}s to {2}s",
+  "technology.move": "{0}allows movement on {1}",
+  "technology.value": "{0}gives your tribe a one time award of {1}",
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
