@@ -614,14 +614,14 @@
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}. {1}",
 
-  "technology.enables": "{0}makes it possible to build {1}s",
+  "technology.enables": "{0}enables {1}",
   "technology.intros.1": "This technology ",
   "technology.intros.2": "and ",
   "technology.intros.3": ". It also ",
   "technology.intros.4": ". If that wasnt enough it ",
   "technology.intros.5": ". Finally it ",
   "technology.upgrade": "{0}gives you the option to upgrade your {1}s to {2}s",
-  "technology.move": "{0}allows movement on {1}",
+  "technology.move": "{0}allows movement on {1} tiles",
   "technology.value": "{0}gives your tribe a one time award of {1}",
   
   "actionbtn.upgrade": "Upgrade to {0}",
