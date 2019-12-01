@@ -613,7 +613,7 @@
   "action.info.reward.population": "Det vil øke befolkningen til den nærmeste byen. Når byen har nok innbyggere vil den vokse og produsere flere stjerner",
   "action.info.reward.resources": "Det vil umiddelbart belønne deg med {0} stjerner",
   "action.info.research": "research {0}. \n{1}",
-  "technology.enables": "technology.enables()",
+  "technology.enables": "",
   "technology.intros.1": "\ttechnology.intros.1({0},{1},{2})",
   "technology.upgrade": "\ttechnology.upgrade({0},{1},{2})",
   "technology.move": "\ttechnology.move({0},{1},{2})",
