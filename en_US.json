@@ -614,9 +614,9 @@
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}. {1}",
 
-  "technology.enables": "{0}makes it possible to build {1}",
+  "technology.enables": "{0}makes it possible to build {1}s",
   "technology.intros.1": "This technology ",
-  "technology.intros.2": " and ",
+  "technology.intros.2": "and ",
   "technology.intros.3": ". It also ",
   "technology.intros.4": ". If that wasnt enough it ",
   "technology.intros.5": ". Finally it ",
