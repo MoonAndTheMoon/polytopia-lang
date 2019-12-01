@@ -612,7 +612,11 @@
   "action.info.build": "build a {0} here",
   "action.info.reward.population": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
-  "action.info.research": "research {0}. {0}",
+  "action.info.research": "research {0}. {1}",
+  "technology.enables": "\n.enables:\n\t0:({0})\n\t1:({1})\n\t2:({2})\n\t3:({3})",
+  "technology.intros.1": "\nintros.1:\n\t0:({0})\n\t1:({1})\n\t2:({2})\n\t3:({3})",
+  "technology.upgrade": "\nupgrade:\n\t0:({0})\n\t1:({1})\n\t2:({2})\n\t3:({3})",
+  "technology.move": "\nmove:\n\t0:({0})\n\t1:({1})\n\t2:({2})\n\t3:({3})",
 
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",

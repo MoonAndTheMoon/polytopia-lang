@@ -1,5 +1,6 @@
 {
   "language": "Norsk"
+
   "tribes.xin-xi": {
     "default": "Xin-xi",
 	"possessive": "Xin-xis",
@@ -9,4 +10,6 @@
     "default": "Imperius",
 	"adjective": "Imperiusk"
   },
+
+  "building.ability.unique": "{0|} kan bare bygges én gang."
 }
