@@ -613,15 +613,16 @@
   "action.info.reward.population": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
   "action.info.reward.resources": "That will give you an instant reward of {0} resources",
   "action.info.research": "research {0}. {1}",
-  "technology.enables": "\nenables[0]:({0})\nenables[1]:({1})\n",
-  "technology.intros.1": "\nintros.1[1]:({1})\n",
-  "technology.upgrade": "\nupgrade[0]:({0})\nupgrade[1]:({1})\nupgrade[2]:({2})\n",
-  "technology.move": "\nmove[0]:({0})\nmove[1]:({1})\n",
-  
-  "technology.intros.2": "intros.2[1]:({1})\nintros.2[2]:({2})\n",
-  "technology.intros.3": "intros.3[1]:({1})\n",
 
-  "ignore.copytext": "\ndefault[0]:({0})\ndefault[1]:({1})\ndefault[2]:({2})\ndefault[3]:({3})\n",
+  "technology.enables": "{0}makes it possible to build {1}",
+  "technology.intros.1": "This technology ",
+  "technology.intros.2": " and ",
+  "technology.intros.3": ". It also ",
+  "technology.intros.4": ". If that wasnt enough it ",
+  "technology.intros.5": ". Finally it ",
+  "technology.upgrade": "gives you the option to upgrade your {1}s to {2}s",
+  "technology.move": "allows movement on ",
+  "technology.value": "gives your tribe a one time award of {1}"
   
   "actionbtn.upgrade": "Upgrade to {0}",
   "actionbtn.remove.building": "Building",
