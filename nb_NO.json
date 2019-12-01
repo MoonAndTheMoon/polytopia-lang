@@ -622,7 +622,7 @@
   "technology.intros.5": ". Og helt til slutt, ",
   "technology.upgrade": "{0}gir deg muligheten til å oppgradere dine {1}er til {2}",
   "technology.move": "{0}lar deg flytte til felter med {1}",
-  "technology.value": "{0}gives your tribe a one time award of {1}",  
+  "technology.value": "{0}gir deg umiddelbart {1} stjerner",  
   "actionbtn.upgrade": "Oppgrader til {0}",
   "actionbtn.remove.building": "Bygning",
   "actionbtn.remove.roads": "Veier",
