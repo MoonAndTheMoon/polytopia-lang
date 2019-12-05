@@ -13,13 +13,3 @@
 
   "building.ability.unique": "{0|} kan bare bygges én gang."
 }
-//////
-  "technology.enables": "\nenables[0]:({0})\nenables[1]:({1})\n",
-  "technology.intros.1": "\nintros.1[1]:({1})\n",
-  "technology.upgrade": "\nupgrade[0]:({0})\nupgrade[1]:({1})\nupgrade[2]:({2})\n",
-  "technology.move": "\nmove[0]:({0})\nmove[1]:({1})\n",
-  
-  "technology.intros.2": "intros.2[1]:({1})\nintros.2[2]:({2})\n",
-  "technology.intros.3": "intros.3[1]:({1})\n",
-
-  "ignore.copytext": "\ndefault[0]:({0})\ndefault[1]:({1})\ndefault[2]:({2})\ndefault[3]:({3})\n",

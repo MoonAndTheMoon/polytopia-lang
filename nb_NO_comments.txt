@@ -6,3 +6,4 @@ https://raw.githubusercontent.com/MoonAndTheMoon/polytopia-lang/master/nb_NO.jso
 [467]	"wcontroller.online.yourturn.description": capitalization context check
 [612]	"action.info.build": problem fitting {0}
 [700]	"gamestatus.tasks.complete": letter ø not displayed
+  "technology.ability": "evne", check
