@@ -165,7 +165,7 @@
 
   "tribes.nature": "Natur",
   "tribes.xin-xi": "Xin-xi",
-  "tribes.xin-xi.info": "De starter deres ferd i de høye fjellene, omgitt av blomstrende kirsebærtrær.\n\n{0} starter spillet med {1}.",
+  "tribes.xin-xi.info": "<b>De starter deres ferd</b> i de høye fjellene, omgitt av blomstrende kirsebærtrær.\n\n{0} starter spillet med {1}.",
   "tribes.imperius": "Imperius",
   "tribes.imperius.info": "Store fjell og grønne daler. {0} sitt klima er ypperlig for dyrking av frukt.\n\n{0} starter spillet med {1}.",
   "tribes.bardur": "Bardur",
@@ -743,7 +743,7 @@
   "consent.enabled.info": "Du lar for øyeblikket Polytopia bruke noen personlige data til å forbedre spillet, lagre dine rekorder etc. For mer informasjon, les vår <u><a href='{0}'>personvernerklæring</a></u>.",
   "consent.disabled": "Personlige data deaktivert",
   "consent.disabled.info": "For å kunne lagre personlige data som rekorder og bruksstatistikk trenger vi ditt samtykke. For mer informasjon, les vår <u><a href='{0}'>personvernerklæring</a></u>.",
-  "consent.revoke":"trekk tilbake samtykke",
+  "consent.revoke":"Trekk tilbake samtykke",
 
   "onlineview.title": "FLERSPILLER",
   "onlineview.loadingservice": "Laster inn tjeneste",
@@ -922,7 +922,7 @@
   "credits.os": "OS",
   "credits.screendpi": "Oppløsning (DPI)",
   "credits.screensize": "Skjermstørrelse",
-  "credits.privacy": "Personvern",
+  "credits.privacy": "Personvernerklæring",
   "credits.terms": "Brukervilkår",
 
   "date.day": "dag",
