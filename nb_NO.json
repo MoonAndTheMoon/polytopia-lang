@@ -697,7 +697,7 @@
   "gamestatus.cities": "{0} byer",
   "gamestatus.destroyed": "beseiret",
   "gamestatus.tasks": "Oppgaver {0}/{1}",
-  "gamestatus.tasks.complete": "Concluído!",
+  "gamestatus.tasks.complete": "Fullført!",
 
   "settings.title": "INNSTILLINGER",
   "settings.volume": "Lydstyrke {0}",
