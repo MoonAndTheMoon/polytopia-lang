@@ -326,7 +326,7 @@
   "resource.names.crop": "",
   "resource.names.fish": "",
   "resource.names.whale": "",
-  "resource.names.wildanimal": "",
+  "resource.names.game": "",
   "resource.names.metal": "",
 
   "terrain.unknown": "",
@@ -735,6 +735,15 @@
   "throne.google.info": "",
   "throne.google.in": "",
 
+  "consent.approval.title": "",
+  "consent.approval.info": "",
+  "consent.approve": "",
+  "consent.deny": "",
+  "consent.enabled": "",
+  "consent.enabled.info": "",
+  "consent.disabled": "",
+  "consent.disabled.info": "",
+  "consent.revoke": "",
 
   "onlineview.title": "",
   "onlineview.loadingservice": "",
