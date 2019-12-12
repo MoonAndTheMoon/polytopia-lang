@@ -736,7 +736,7 @@
   "throne.google.in": "SIGN IN",
 
   "consent.approval.title":"Welcome to Polytopia!",
-  "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(Your you can revoke your approval at any time in the 'Throne Room')",
+  "consent.approval.info":"To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
   "consent.approve":"APPROVE",
   "consent.deny":"DENY",
   "consent.enabled":"Personal Data Enabled",
