@@ -1,8 +1,4 @@
 https://raw.githubusercontent.com/MoonAndTheMoon/polytopia-lang/master/nb_NO.json
-[199]	"building.capital.owner": add period when bug is fixed
-[200]	"building.capital.owner.former": add period when bug is fixed
-[201]	"building.city.owner": add period when bug is fixed
-[202]	"building.village.owner": add period when bug is fixed
 [467]	"wcontroller.online.yourturn.description": capitalization context check
 [612]	"action.info.build": problem fitting {0}
 [700]	"gamestatus.tasks.complete": letter ø not displayed
