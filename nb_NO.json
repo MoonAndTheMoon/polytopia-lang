@@ -1,8 +1,8 @@
 {
   "language": "Norsk",
   "startmenu.new_game": {"what": "NYTT SPILL?"},
-  "startmenu.multiplayer": "FLERSPILLER",
-  "startmenu.resume_game": "FORTSETT SPILL",
+  "startmenu.multiplayer": 123.6,
+  "startmenu.resume_game": ["FORTSETT SPILL"],
   "startmenu.settings": "Innstillinger",
   "startmenu.high_score": "Topplister",
   "startmenu.throne_room": "Tronerom",
